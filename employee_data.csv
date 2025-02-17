@@ -1,0 +1,201 @@
+Employee ID,Name,Department,Feedback,Attrition,Sentiment Score
+1,Employee_1,Finance,The work-life balance is terrible.,1,-0.4767
+2,Employee_2,Finance,Colleagues are supportive and friendly.,0,0.6597
+3,Employee_3,Finance,I need help with some projects,0,0.4019
+4,Employee_4,IT,Great leadership and support.,0,0.7783
+5,Employee_5,HR,There is no room for growth.,0,0.1027
+6,Employee_6,IT,No challenges,0,-0.2263
+7,Employee_7,Finance,Great leadership and support.,0,0.7783
+8,Employee_8,HR,The work-life balance is terrible.,1,-0.4767
+9,Employee_9,Finance,I need help with some projects,1,0.4019
+10,Employee_10,HR,Great leadership and support.,1,0.7783
+11,Employee_11,IT,I need help with some projects,0,0.4019
+12,Employee_12,IT,Workload is overwhelming.,1,0.0
+13,Employee_13,Finance,Management listens to our concerns.,0,0.0
+14,Employee_14,IT,I need help with some projects,0,0.4019
+15,Employee_15,IT,Management listens to our concerns.,0,0.0
+16,Employee_16,Marketing,Workload is overwhelming.,0,0.0
+17,Employee_17,Marketing,The project is not aligning with my long-term goals,1,0.0
+18,Employee_18,Finance,I feel stuck in this role.,1,-0.25
+19,Employee_19,HR,Great leadership and support.,0,0.7783
+20,Employee_20,Finance,Colleagues are supportive and friendly.,0,0.6597
+21,Employee_21,IT,Lack of professional development opportunities.,1,0.0772
+22,Employee_22,IT,Flexible working hours make it a great place.,0,0.7184
+23,Employee_23,Sales,No challenges,1,-0.2263
+24,Employee_24,Finance,Workload is overwhelming.,1,0.0
+25,Employee_25,HR,The work-life balance is terrible.,1,-0.4767
+26,Employee_26,Marketing,Great leadership and support.,0,0.7783
+27,Employee_27,Marketing,Management listens to our concerns.,1,0.0
+28,Employee_28,Sales,Great leadership and support.,0,0.7783
+29,Employee_29,Marketing,The project is not aligning with my long-term goals,1,0.0
+30,Employee_30,HR,Salary increments are too low.,1,-0.2732
+31,Employee_31,Finance,No challenges,1,-0.2263
+32,Employee_32,IT,"I love working here, the environment is great!",0,0.8622
+33,Employee_33,Finance,Colleagues are supportive and friendly.,0,0.6597
+34,Employee_34,Finance,Flexible working hours make it a great place.,1,0.7184
+35,Employee_35,Marketing,I feel stuck in this role.,1,-0.25
+36,Employee_36,Sales,Great leadership and support.,0,0.7783
+37,Employee_37,Finance,Lack of professional development opportunities.,1,0.0772
+38,Employee_38,Marketing,The work-life balance is terrible.,1,-0.4767
+39,Employee_39,Sales,There is no room for growth.,0,0.1027
+40,Employee_40,HR,The work-life balance is terrible.,1,-0.4767
+41,Employee_41,Finance,There is no room for growth.,1,0.1027
+42,Employee_42,IT,Management listens to our concerns.,0,0.0
+43,Employee_43,IT,There is no room for growth.,1,0.1027
+44,Employee_44,HR,The project is not aligning with my long-term goals,1,0.0
+45,Employee_45,Finance,The work-life balance is terrible.,1,-0.4767
+46,Employee_46,Marketing,Salary increments are too low.,0,-0.2732
+47,Employee_47,Sales,No challenges,1,-0.2263
+48,Employee_48,HR,The work-life balance is terrible.,1,-0.4767
+49,Employee_49,Marketing,I feel stuck in this role.,0,-0.25
+50,Employee_50,IT,The work-life balance is terrible.,0,-0.4767
+51,Employee_51,Marketing,Salary increments are too low.,0,-0.2732
+52,Employee_52,HR,"I love working here, the environment is great!",0,0.8622
+53,Employee_53,HR,There is no room for growth.,0,0.1027
+54,Employee_54,IT,Salary increments are too low.,1,-0.2732
+55,Employee_55,Finance,Flexible working hours make it a great place.,0,0.7184
+56,Employee_56,Sales,No challenges,1,-0.2263
+57,Employee_57,Marketing,Colleagues are supportive and friendly.,0,0.6597
+58,Employee_58,Finance,Workload is overwhelming.,1,0.0
+59,Employee_59,IT,There is no room for growth.,1,0.1027
+60,Employee_60,Sales,The work-life balance is terrible.,1,-0.4767
+61,Employee_61,HR,Management listens to our concerns.,0,0.0
+62,Employee_62,Sales,No challenges,1,-0.2263
+63,Employee_63,Marketing,Lack of professional development opportunities.,1,0.0772
+64,Employee_64,Finance,Colleagues are supportive and friendly.,0,0.6597
+65,Employee_65,Sales,There is no room for growth.,1,0.1027
+66,Employee_66,IT,I need help with some projects,0,0.4019
+67,Employee_67,HR,Workload is overwhelming.,0,0.0
+68,Employee_68,Marketing,I need help with some projects,1,0.4019
+69,Employee_69,Marketing,Management listens to our concerns.,0,0.0
+70,Employee_70,Sales,There is no room for growth.,0,0.1027
+71,Employee_71,IT,The work-life balance is terrible.,1,-0.4767
+72,Employee_72,Sales,Great leadership and support.,0,0.7783
+73,Employee_73,Marketing,Workload is overwhelming.,0,0.0
+74,Employee_74,Marketing,Management listens to our concerns.,0,0.0
+75,Employee_75,Finance,The work-life balance is terrible.,1,-0.4767
+76,Employee_76,HR,Workload is overwhelming.,0,0.0
+77,Employee_77,Marketing,Salary increments are too low.,0,-0.2732
+78,Employee_78,Marketing,Lack of professional development opportunities.,1,0.0772
+79,Employee_79,IT,The project is not aligning with my long-term goals,1,0.0
+80,Employee_80,Marketing,Management listens to our concerns.,1,0.0
+81,Employee_81,Marketing,There is no room for growth.,1,0.1027
+82,Employee_82,Sales,I feel stuck in this role.,1,-0.25
+83,Employee_83,Marketing,The work-life balance is terrible.,1,-0.4767
+84,Employee_84,HR,The work-life balance is terrible.,1,-0.4767
+85,Employee_85,Finance,I need help with some projects,0,0.4019
+86,Employee_86,Finance,Great leadership and support.,0,0.7783
+87,Employee_87,Sales,"I love working here, the environment is great!",0,0.8622
+88,Employee_88,HR,"I love working here, the environment is great!",0,0.8622
+89,Employee_89,IT,No challenges,1,-0.2263
+90,Employee_90,IT,Colleagues are supportive and friendly.,0,0.6597
+91,Employee_91,Sales,The work-life balance is terrible.,1,-0.4767
+92,Employee_92,Finance,Workload is overwhelming.,1,0.0
+93,Employee_93,Sales,The work-life balance is terrible.,1,-0.4767
+94,Employee_94,Sales,"I love working here, the environment is great!",0,0.8622
+95,Employee_95,Sales,I need help with some projects,0,0.4019
+96,Employee_96,IT,Workload is overwhelming.,0,0.0
+97,Employee_97,HR,Salary increments are too low.,1,-0.2732
+98,Employee_98,Marketing,The project is not aligning with my long-term goals,1,0.0
+99,Employee_99,Marketing,Colleagues are supportive and friendly.,0,0.6597
+100,Employee_100,Sales,"I love working here, the environment is great!",0,0.8622
+101,Employee_101,Marketing,No challenges,0,-0.2263
+102,Employee_102,IT,Salary increments are too low.,1,-0.2732
+103,Employee_103,Finance,Lack of professional development opportunities.,1,0.0772
+104,Employee_104,Marketing,Colleagues are supportive and friendly.,0,0.6597
+105,Employee_105,IT,"I love working here, the environment is great!",0,0.8622
+106,Employee_106,Sales,The work-life balance is terrible.,1,-0.4767
+107,Employee_107,IT,No challenges,0,-0.2263
+108,Employee_108,Sales,Management listens to our concerns.,0,0.0
+109,Employee_109,HR,I feel stuck in this role.,0,-0.25
+110,Employee_110,HR,The work-life balance is terrible.,1,-0.4767
+111,Employee_111,Sales,Colleagues are supportive and friendly.,0,0.6597
+112,Employee_112,IT,Colleagues are supportive and friendly.,0,0.6597
+113,Employee_113,HR,No challenges,0,-0.2263
+114,Employee_114,HR,I feel stuck in this role.,1,-0.25
+115,Employee_115,Marketing,Salary increments are too low.,1,-0.2732
+116,Employee_116,Finance,Management listens to our concerns.,0,0.0
+117,Employee_117,IT,I feel stuck in this role.,1,-0.25
+118,Employee_118,IT,Workload is overwhelming.,1,0.0
+119,Employee_119,Sales,The project is not aligning with my long-term goals,1,0.0
+120,Employee_120,Finance,Management listens to our concerns.,0,0.0
+121,Employee_121,Finance,I feel stuck in this role.,0,-0.25
+122,Employee_122,Finance,The project is not aligning with my long-term goals,1,0.0
+123,Employee_123,Marketing,Lack of professional development opportunities.,1,0.0772
+124,Employee_124,Sales,No challenges,1,-0.2263
+125,Employee_125,IT,Flexible working hours make it a great place.,0,0.7184
+126,Employee_126,Finance,Great leadership and support.,0,0.7783
+127,Employee_127,Sales,There is no room for growth.,1,0.1027
+128,Employee_128,Sales,The project is not aligning with my long-term goals,1,0.0
+129,Employee_129,Finance,No challenges,1,-0.2263
+130,Employee_130,Finance,I need help with some projects,0,0.4019
+131,Employee_131,IT,Workload is overwhelming.,0,0.0
+132,Employee_132,Finance,"I love working here, the environment is great!",0,0.8622
+133,Employee_133,HR,Workload is overwhelming.,1,0.0
+134,Employee_134,IT,Great leadership and support.,0,0.7783
+135,Employee_135,Finance,"I love working here, the environment is great!",0,0.8622
+136,Employee_136,Finance,Salary increments are too low.,1,-0.2732
+137,Employee_137,Finance,No challenges,1,-0.2263
+138,Employee_138,Sales,Lack of professional development opportunities.,1,0.0772
+139,Employee_139,Sales,"I love working here, the environment is great!",0,0.8622
+140,Employee_140,Finance,Management listens to our concerns.,0,0.0
+141,Employee_141,Sales,No challenges,1,-0.2263
+142,Employee_142,HR,There is no room for growth.,1,0.1027
+143,Employee_143,Finance,Flexible working hours make it a great place.,0,0.7184
+144,Employee_144,HR,Great leadership and support.,0,0.7783
+145,Employee_145,Marketing,Lack of professional development opportunities.,1,0.0772
+146,Employee_146,HR,The project is not aligning with my long-term goals,1,0.0
+147,Employee_147,Finance,Flexible working hours make it a great place.,0,0.7184
+148,Employee_148,Finance,No challenges,1,-0.2263
+149,Employee_149,HR,Workload is overwhelming.,1,0.0
+150,Employee_150,HR,Management listens to our concerns.,0,0.0
+151,Employee_151,IT,The project is not aligning with my long-term goals,1,0.0
+152,Employee_152,Sales,Lack of professional development opportunities.,1,0.0772
+153,Employee_153,IT,Salary increments are too low.,1,-0.2732
+154,Employee_154,Marketing,Flexible working hours make it a great place.,0,0.7184
+155,Employee_155,Sales,I need help with some projects,1,0.4019
+156,Employee_156,IT,Salary increments are too low.,1,-0.2732
+157,Employee_157,Marketing,Management listens to our concerns.,0,0.0
+158,Employee_158,Marketing,Lack of professional development opportunities.,1,0.0772
+159,Employee_159,Marketing,"I love working here, the environment is great!",0,0.8622
+160,Employee_160,HR,Workload is overwhelming.,1,0.0
+161,Employee_161,HR,Management listens to our concerns.,0,0.0
+162,Employee_162,Sales,"I love working here, the environment is great!",0,0.8622
+163,Employee_163,Marketing,Salary increments are too low.,0,-0.2732
+164,Employee_164,Finance,There is no room for growth.,0,0.1027
+165,Employee_165,Marketing,The work-life balance is terrible.,1,-0.4767
+166,Employee_166,IT,Workload is overwhelming.,1,0.0
+167,Employee_167,HR,"I love working here, the environment is great!",0,0.8622
+168,Employee_168,Finance,Lack of professional development opportunities.,0,0.0772
+169,Employee_169,Sales,Colleagues are supportive and friendly.,0,0.6597
+170,Employee_170,Sales,Flexible working hours make it a great place.,0,0.7184
+171,Employee_171,Finance,I feel stuck in this role.,1,-0.25
+172,Employee_172,Marketing,There is no room for growth.,1,0.1027
+173,Employee_173,IT,I need help with some projects,0,0.4019
+174,Employee_174,Finance,Colleagues are supportive and friendly.,1,0.6597
+175,Employee_175,Marketing,Salary increments are too low.,0,-0.2732
+176,Employee_176,Sales,Workload is overwhelming.,1,0.0
+177,Employee_177,Marketing,Salary increments are too low.,1,-0.2732
+178,Employee_178,IT,Flexible working hours make it a great place.,0,0.7184
+179,Employee_179,Sales,Flexible working hours make it a great place.,0,0.7184
+180,Employee_180,Marketing,Colleagues are supportive and friendly.,0,0.6597
+181,Employee_181,Finance,The project is not aligning with my long-term goals,1,0.0
+182,Employee_182,IT,The work-life balance is terrible.,1,-0.4767
+183,Employee_183,Sales,Great leadership and support.,1,0.7783
+184,Employee_184,Sales,I feel stuck in this role.,0,-0.25
+185,Employee_185,Finance,Workload is overwhelming.,1,0.0
+186,Employee_186,Finance,I need help with some projects,1,0.4019
+187,Employee_187,IT,Lack of professional development opportunities.,1,0.0772
+188,Employee_188,Marketing,No challenges,0,-0.2263
+189,Employee_189,Sales,The project is not aligning with my long-term goals,1,0.0
+190,Employee_190,Sales,I need help with some projects,0,0.4019
+191,Employee_191,Marketing,Management listens to our concerns.,0,0.0
+192,Employee_192,HR,Flexible working hours make it a great place.,0,0.7184
+193,Employee_193,Finance,The project is not aligning with my long-term goals,1,0.0
+194,Employee_194,Sales,Colleagues are supportive and friendly.,0,0.6597
+195,Employee_195,HR,I feel stuck in this role.,1,-0.25
+196,Employee_196,Sales,Colleagues are supportive and friendly.,0,0.6597
+197,Employee_197,Marketing,I feel stuck in this role.,0,-0.25
+198,Employee_198,Marketing,Management listens to our concerns.,0,0.0
+199,Employee_199,Sales,"I love working here, the environment is great!",0,0.8622
+200,Employee_200,Sales,Management listens to our concerns.,0,0.0
